@@ -16,4 +16,4 @@ client.on('ready', () => {
 })
 
 
-client.login('ODE2NzY0MzI0MDU1NDgyNDA4.YD_tDQ.Ajof_0MRzZIzQO7K4ZOVhjIbNZs');
+client.login('secret');
